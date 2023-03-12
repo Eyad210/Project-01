@@ -1,0 +1,84 @@
+body{
+    font-size: 16px;
+    font-family: Karla;
+    background-color: hsl(204, 43%, 93%);
+    margin: 100px 350px;
+}
+
+p{
+    font-weight: 400;
+    color: hsl(204, 43%, 93%);
+}
+
+#p{
+    color: hsl(218, 22%, 67%);
+}
+
+h2{
+    color: hsl(179, 62%, 43%);
+    font-weight: 700;
+}
+
+h3{
+    color: hsl(71, 73%, 54%);
+}
+
+.card{
+    
+    background-color: white;
+    box-shadow: 0px 0px 51px -38px rgba(0,0,0,0.75);;
+    border-radius: 5px;
+}
+.bottom{
+    background-color: hsl(178, 46%, 53%);
+    display: flex;
+    border-radius: 0px 0px 5px 5px;
+}
+
+#top{
+    padding-top: 35px;
+    padding-left: 35px;
+    padding-bottom: 35px;
+}
+
+#left{
+    background-color: hsl(179, 62%, 43%);
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    border-radius: 0px 0px 0px 5px;
+}
+
+#price{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.inside{
+    color: hsl(204, 43%, 93%);
+}
+
+#per{
+    color: hsl(178, 57%, 58%);
+}
+
+button{
+    font-family: Karla;
+    font-weight: 700;
+    font-size: 16px;
+    color: hsl(204, 43%, 93%);
+    background-color: hsl(71, 73%, 54%);
+    border: none;
+    border-radius: 5px;
+    padding: 15px 95px;
+    box-shadow: 0px 0px 31px -17px rgba(0,0,0,0.75);
+}
+
+#right{
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-bottom: 20px;
+    
+}
+
